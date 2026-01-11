@@ -70,34 +70,30 @@
 
 ---
 
-### 📈 ANALYTICS TERMINAL
+### 🧬 Evolution of My Code
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marouaneakrich&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marouaneakrich&layout=compact&theme=radical" width="48%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/marouaneakrich/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/marouaneakrich/output/github-contribution-grid-snake.svg" />
+    <img
+      alt="github contribution snake animation"
+      src="https://raw.githubusercontent.com/marouaneakrich/output/github-contribution-grid-snake.svg"
+      style="max-width: 100%; height: auto;"
+    />
+  </picture>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marouaneakrich&theme=radical" width="100%" />
-</p>
 
----
-
----
-
-### 🧬 MY PROFILE
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marouaneakrich&theme=radical" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marouaneakrich&theme=radical" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marouaneakrich&theme=radical" width="32%" />
-</p>
 
 ---
 
 ### 📡 ESTABLISH UPLINK
 <div align="center">
   <a href="https://linkedin.com/in/marouaneakrich"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:akrich.mar@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:y.brox95@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://facebook.com/marouaneakrich"><img src="https://img.shields.io/badge/FACEBOOK-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </div>
 
