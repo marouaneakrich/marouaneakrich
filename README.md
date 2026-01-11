@@ -18,7 +18,6 @@
 > *"Software is not just code; it's a living architecture. I don't just build features; I engineer resilient, scalable, and high-performance ecosystems that solve real-world problems."*
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marouaneakrich&theme=transparent" width="100%" />
 </div>
 
 ---
@@ -70,22 +69,8 @@
 
 ---
 
-### 🧬 Evolution of My Code
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/marouaneakrich/main/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/marouaneakrich/main/github-contribution-grid-snake.svg" />
-    <img
-      alt="github contribution snake animation"
-      src="https://raw.githubusercontent.com/marouaneakrich/main/github-contribution-grid-snake.svg"
-      style="max-width: 100%; height: auto;"
-    />
-  </picture>
-</p>
-
+### 📈 Contribution Graph
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marouaneakrich&theme=radical)
 
 
 ---
