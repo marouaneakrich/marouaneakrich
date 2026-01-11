@@ -72,22 +72,25 @@
 
 ### 📈 ANALYTICS TERMINAL
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marouaneakrich&show_icons=true&theme=onedark&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marouaneakrich&layout=compact&theme=onedark&hide_border=true" width="48%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marouaneakrich&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marouaneakrich&layout=compact&theme=radical" width="48%" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marouaneakrich&theme=onedark&hide_border=true" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marouaneakrich&theme=radical" width="100%" />
 </p>
 
 ---
 
-### 🧬 CONTRIBUTION DNA
-<div align="center">
-  <img src="https://raw.githubusercontent.com/marouaneakrich/marouaneakrich/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-  <p><i>The visual representation of my persistence.</i></p>
-</div>
+---
+
+### 🧬 MY PROFILE
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marouaneakrich&theme=radical" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marouaneakrich&theme=radical" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marouaneakrich&theme=radical" width="32%" />
+</p>
 
 ---
 
