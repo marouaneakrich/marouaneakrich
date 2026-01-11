@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=MAROUANE%20AKRICH&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Architecting%20Digital%20Ecosystems&descSize=20&descAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00F2FE&height=300&section=header&text=MAROUANE%20AKRICH&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Architecting%20Digital%20Ecosystems&descSize=20&descAlignY=60" width="100%" />
 </p>
 
 <div align="center">
@@ -85,7 +85,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00F2FE&height=120&section=footer&fontColor=FFFFFF" width="100%" />
 </p>
 
 <p align="center">
